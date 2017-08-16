@@ -84,3 +84,96 @@ if(navn === "Søren Paepcke" || alder == 27){
 else{
     console.log("Hej, hvad hedder du?");
 }
+
+```
+### Øvelse 5
+#### Beskrivelse af forskellige operatoere
+
+* \=   Sætter en værdi eller et udsagn til noget andet
+
+**Eksempel:** x = y
+
+
+* \==  Sammenligner to værdier eller udsagn med hinanden
+
+**Eksempel:** x == y
+
+
+* \=== Sammenligner både indhold og datatype for en værdi/et udsagn
+
+**Eksempel:** x === y
+
+
+* \!   Vender et udtryk om
+
+**Eksempel:** x ! y
+
+
+* \!=  Hvis noget *ikke* er lig med noget andet
+
+**Eksempel:** x != y
+
+
+* \!== Hvis det ikke er samme værdi *eller* datatype
+
+**Eksempel:** x !== y
+
+
+* \<   Mindre end noget
+
+**Eksempel:** x < y
+
+
+* \>   Større end noget
+
+**Eksempel:** x > y
+
+
+* \<=  Mindre end, eller lig med
+
+**Eksempel:** x <= y
+
+
+* \>=  Større end, eller lig med
+
+**Eksempel:** x >= y
+
+
+* \+   Addering, lægger to værdier eller udsagn sammen
+
+**Eksempel:** x + y
+
+
+* \-   Subtraktion, trækker to værdier fra hinanden
+
+**Eksempel:** x - y
+
+
+* \*   Multiplikation, ganger to værdier med hinanden
+
+**Eksempel:** x * y
+
+
+* \/   Division, dividerer to værdier med hinanden.
+
+**Eksempel:** x / y
+
+
+* \%   Modulus, dividerer to værdier, og ser hvor mange gange resultatet går op i det første tal
+
+**Eksempel:** x % y
+
+
+* \&&  Hvis 2 eller flere værdier skal være *true*, bruges disse operatoere.
+
+**Eksempel:** x == z && y == w
+
+
+* \||  Hvis blot en af 2 eller flere værdier skal være *true*, bruges disse "double pipes"
+
+
+**Eksempel:** x == z || y == w
+
+
+
+Kilde: [W3 Schools](https://www.w3schools.com/js/js_operators.asp)
