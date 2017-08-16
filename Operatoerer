@@ -1,3 +1,4 @@
+```javascript
 //øvelse 1
 var tal1 = 3;
 var tal2 = 1337;
@@ -23,18 +24,15 @@ console.log(tal1 % tal2);
 tal1++;
 console.log(tal1);
 
-
 // -- operator, trækker 1 fra
 
 tal1--;
 console.log(tal1);
 
-
 //øvelse 2.1, sætter tal1 til at blive det samme som tal2
 
 tal1 = tal2;
 console.log(tal1);
-
 
 //øvelse 2.2, lægger tal1 sammen med tal2
 
@@ -46,24 +44,20 @@ console.log(tal1);
 tal2 -= tal1;
 console.log(tal2);
 
-
 //øvelse 2.4, ganger tal1 med tal2
  
 tal1 *= tal2;
 console.log(tal1);
-
 
 //øvelse 2.5, dividerer tal2 med tal1
 
 tal2 /= tal1;
 console.log(tal2);
 
-
 //øvelse 2.6, finder ud af hvor mange gange resultatet af divisionen går op i tal1
 
 tal1 %= tal2;
 console.log(tal1);
-
 
 //øvelse 3, begge betingelser skal være opfyldt her pga. &&
 
