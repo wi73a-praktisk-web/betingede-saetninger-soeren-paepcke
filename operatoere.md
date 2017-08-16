@@ -9,7 +9,7 @@ var tal2 = 1337;
 //addering
 console.log(tal1 + tal2);
 
-//substraktion
+//subtraktion
 console.log(tal2 - tal1);
 
 //multiplikation
