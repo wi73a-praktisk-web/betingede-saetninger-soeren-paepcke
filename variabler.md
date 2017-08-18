@@ -8,8 +8,8 @@ var navn = "Søren Paepcke";
 var alder = 27;
 
 //besværlig metode med plusser og plinger
-//var tekst = 'Mit navn er ' + navn + ' og jeg er '+ alder + ' år gammel.';
-//console.log(tekst);
+var tekst = 'Mit navn er ' + navn + ' og jeg er '+ alder + ' år gammel.';
+console.log(tekst);
 
 //smart metode med "back tics" som gør det samme som overstående, bare uden plusser og plinger
 console.log(`Mit navn er ${navn} og jeg er ${alder} år gammel`);
@@ -58,10 +58,10 @@ console.log(number);
 
 var carName = "Volvo";
 //med fejl i koden
-//console.log(carname);
+console.log(carname);
 //uden fejl i koden
 console.log(carName);
-
+//javascript er case sensitive
 
 //øvelse 4.4
 
