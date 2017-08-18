@@ -103,4 +103,4 @@ I en if/else *skal* der være mindst én betingelse, som kan være enten sand el
 
 Desuden *skal* if/else skrives med småt, da det er reserverede ord i javascript, så hvis man skriver **If** eller **IF** vil man få en fejl.
 
-Man kan også have "else if" sætninger, imellem "if" og "else" sætningerne, hvis man har flere ting man vil tjekke for, eller for at give flere tilbagemeldinger til brugeren af ens website, f.eks. 
+Man kan også have "else if" sætninger, imellem "if" og "else" sætningerne, hvis man har flere ting man vil tjekke for, eller for at give forskellige tilbagemeldinger til brugeren af ens website, f.eks. 
