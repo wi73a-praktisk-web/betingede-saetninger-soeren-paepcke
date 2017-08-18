@@ -21,7 +21,7 @@ var moms = 1.25;
 var pris_uden_moms = 400;
 //lægger moms oven i prisen
 var pris_med_moms = moms * pris_uden_moms;
-//console.log(pris_med_moms);
+console.log(pris_med_moms);
 
 //trækker momsen fra igen
 var pris_uden_moms2 = pris_med_moms / moms;
