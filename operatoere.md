@@ -89,87 +89,87 @@ else{
 ### Øvelse 5
 #### Beskrivelse af forskellige operatoere
 
-* \=   Sætter en værdi eller et udsagn til noget andet
+* \=   Tildelingsoperator, sætter en værdi eller et udsagn til noget andet
 
 **Eksempel:** x = y
 
 
-* \==  Sammenligner to værdier eller udsagn med hinanden
+* \==  Sammenligningsoperator, sammenligner to værdier eller udsagn med hinanden
 
 **Eksempel:** x == y
 
 
-* \=== Sammenligner både indhold og datatype for en værdi/et udsagn
+* \=== Sammenligningsoperator, sammenligner både indhold og datatype for en værdi/et udsagn
 
 **Eksempel:** x === y
 
 
-* \!   Vender et udtryk om
+* \!   Ikke logisk/Vender et udtryk om
 
 **Eksempel:** x ! y
 
 
-* \!=  Hvis noget *ikke* er lig med noget andet
+* \!=  Sammenligningsoperator, hvis noget *ikke* skal være lig med noget andet
 
 **Eksempel:** x != y
 
 
-* \!== Hvis det ikke er samme værdi *eller* datatype
+* \!== Sammenligningsoperator, hvis det ikke er samme værdi *eller* datatype
 
 **Eksempel:** x !== y
 
 
-* \<   Mindre end noget
+* \<   Sammenligningsoperator, mindre end noget
 
 **Eksempel:** x < y
 
 
-* \>   Større end noget
+* \>   Sammenligningsoperator, større end noget
 
 **Eksempel:** x > y
 
 
-* \<=  Mindre end, eller lig med
+* \<=  Sammenligningsoperator, mindre end, eller lig med
 
 **Eksempel:** x <= y
 
 
-* \>=  Større end, eller lig med
+* \>=  Sammenligningsoperator, større end, eller lig med
 
 **Eksempel:** x >= y
 
 
-* \+   Addering, lægger to værdier eller udsagn sammen
+* \+   Aritmetisk operator, addering, lægger to værdier eller udsagn sammen
 
 **Eksempel:** x + y
 
 
-* \-   Subtraktion, trækker to værdier fra hinanden
+* \-   Aritmetisk operator, subtraktion, trækker to værdier fra hinanden
 
 **Eksempel:** x - y
 
 
-* \*   Multiplikation, ganger to værdier med hinanden
+* \*   Aritmetisk operator, multiplikation, ganger to værdier med hinanden
 
 **Eksempel:** x * y
 
 
-* \/   Division, dividerer to værdier med hinanden.
+* \/   Aritmetisk operator, division, dividerer to værdier med hinanden.
 
 **Eksempel:** x / y
 
 
-* \%   Modulus, dividerer to værdier, og ser hvor mange gange resultatet går op i det første tal
+* \%   Aritmetisk operator, modulus, dividerer to værdier, og ser hvor mange gange resultatet går op i det første tal
 
 **Eksempel:** x % y
 
 
-* \&&  Hvis 2 eller flere værdier skal være *true*, bruges disse operatoere.
+* \&&  Logisk operator, hvis 2 eller flere værdier skal være *true*, bruges disse operatoere.
 
 **Eksempel:** x == z && y == w
 
 
-* \||  Hvis blot en af 2 eller flere værdier skal være *true*, bruges disse "double pipes"
+* \||  Logisk operator, hvis blot en af 2 eller flere værdier skal være *true*, bruges disse "double pipes"
 
 
 **Eksempel:** x == z || y == w
