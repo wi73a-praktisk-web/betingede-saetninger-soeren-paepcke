@@ -1,6 +1,7 @@
 # opstart-soeren-paepcke
 ## arrays
 
+```javascript
 //array øvelser 1.1
 
 var cars = ['Saab', 'Volvo', 'BMW'];
@@ -57,3 +58,4 @@ hold_3[0] = 'Yolo Swaggins';
 hold_3[1] = 'Gollum Gollumsen';
 
 console.log(personer);
+```
