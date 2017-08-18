@@ -33,7 +33,7 @@ console.log(pris_uden_moms2);
 var forste = 10;
 var anden = 20;
 
-//laver en midlertidlig kasse til variablen "forste" som opbevarer tallet 10
+//laver en midlertidlig variabel/"kasse" til variablen "forste" som opbevarer tallet 10
 var temp = forste;
 //bytter værdierne rundt i variablerne
 forste = anden;
