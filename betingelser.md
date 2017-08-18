@@ -92,9 +92,15 @@ else{
 }
 ```
 Denne lille if/else sætning har én betingelse, hvor den ser på om jeg er sej til javascript.
+
 Hvis jeg er det, udskrives der "Fortsæt den gode stil" i konsollen, og hvis jeg ikke er det, skal jeg læse op på det derhjemme.
+
 Betingelsen kan komme fra alt muligt, men i det her tilfælde blot to "strings"/"tekst".
+
 Det er **meget vigtigt** at man husker alle tegnene i en if/else sætning, ligesom det er med javascript generelt.
+
 I en if/else *skal* der være mindst én betingelse, som kan være enten sand eller falsk, hvorefter koden enten udføres eller gør noget andet.
+
 Desuden *skal* if/else skrives med småt, da det er reserverede ord i javascript, så hvis man skriver **If** eller **IF** vil man få en fejl.
+
 Man kan også have "else if" sætninger, imellem "if" og "else" sætningerne, hvis man har flere ting man vil tjekke for, eller for at give flere tilbagemeldinger til brugeren af ens website, f.eks. 
