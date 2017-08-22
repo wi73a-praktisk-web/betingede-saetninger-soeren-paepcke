@@ -68,3 +68,46 @@ Så man kan oversætte koden til:
 skriv i konsollen(tal);
     
 **}**
+
+```javascript
+//Løkker, del 2, øvelse 1
+/*
+var farver = ['rød','grøn','blå'];
+farver.forEach(function(farve){
+   console.log(farve);
+});
+var farver = ['rød','grøn','blå'];
+farver.forEach(function(farve, index, arr){
+   console.log(farve + ' har placering ' + index);
+});
+
+var et_array = ['Yolo Swaggins', 'Legolas', 'Gimli', 'Gollum', 'Saruman', 'Gandalf', 'Aragorn', 'Bilbo'];
+et_array.forEach(function(navne){
+    console.log(navne);
+});
+*/
+//øvelse 2
+/*
+var nyt_array = ['Rammstein', 'Metallica', 'Red Warzawa', 'System of a Down'];
+nyt_array.forEach(function(band_navne, index, arr) {
+    console.log(band_navne + ' har placering ' + index + ' i mit array.');
+});
+*/
+
+//øvelse 3
+//opretter array, med en masse tal i
+var en_masse_tal = [128, 64, 29, 132, 1555, 15555, 55, 18, 21, 24, 33, 30];
+//laver en forEach løkke, som kører så længe der er elementer i array'et
+en_masse_tal.forEach(function(sammenligning, index, arr){
+    
+    if(en_masse_tal[index] < en_masse_tal[index + 1]){
+        console.log(en_masse_tal[index] + ' er mindre end ' + en_masse_tal[index + 1]);
+    }
+    else if(en_masse_tal[index + 1] == undefined){
+        console.log('Der er ikke flere tal tilbage!');
+    }
+    else{
+        console.log(en_masse_tal[index] + ' er større end ' + en_masse_tal[index + 1]);
+    }
+});
+```
