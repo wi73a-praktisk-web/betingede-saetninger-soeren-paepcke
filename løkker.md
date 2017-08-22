@@ -3,7 +3,7 @@
 
 ```javascript
 //Løkker, del 1, øvelse 1.1
-/*
+
 var omgange = 10;
 do{
     if(omgange == 1){
@@ -20,9 +20,9 @@ do{
     }
 }
 while(omgange >= 0);
-*/
+
 //øvelse 1.2
-/*
+
 var condition = 1;
 //while løkke
 while(condition <= 25){
@@ -40,7 +40,7 @@ do{
 for(var condition = 1; condition <= 25; condition++){
     console.log(condition);
 }
-*/
+
 //øvelse 3
 for(var from_year = 2017; from_year >= 1917; from_year--){
     console.log(from_year);
@@ -63,5 +63,7 @@ I grove træk kan man sige, at der er 3 "ingredienser" i en "for-løkke" grydere
 
 Så man kan oversætte koden til:
 **så længe(var tal = 1; tal < 10; tal + 1){
-    skriv i konsollen(tal);
+
+    *skriv i konsollen(tal);*
+    
 }**
