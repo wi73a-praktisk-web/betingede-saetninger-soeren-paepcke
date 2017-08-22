@@ -64,6 +64,6 @@ I grove træk kan man sige, at der er 3 "ingredienser" i en "for-løkke" grydere
 Så man kan oversætte koden til:
 **så længe(var tal = 1; tal < 10; tal + 1){**
 
-    *skriv i konsollen(tal);*
+skriv i konsollen(tal);
     
 **}**
