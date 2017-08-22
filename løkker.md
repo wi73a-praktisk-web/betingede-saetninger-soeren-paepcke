@@ -72,15 +72,6 @@ skriv i konsollen(tal);
 ```javascript
 //Løkker, del 2, øvelse 1
 
-var farver = ['rød','grøn','blå'];
-farver.forEach(function(farve){
-   console.log(farve);
-});
-var farver = ['rød','grøn','blå'];
-farver.forEach(function(farve, index, arr){
-   console.log(farve + ' har placering ' + index);
-});
-
 var et_array = ['Yolo Swaggins', 'Legolas', 'Gimli', 'Gollum', 'Saruman', 'Gandalf', 'Aragorn', 'Bilbo'];
 et_array.forEach(function(navne){
     console.log(navne);
