@@ -71,7 +71,7 @@ skriv i konsollen(tal);
 
 ```javascript
 //Løkker, del 2, øvelse 1
-/*
+
 var farver = ['rød','grøn','blå'];
 farver.forEach(function(farve){
    console.log(farve);
@@ -85,14 +85,14 @@ var et_array = ['Yolo Swaggins', 'Legolas', 'Gimli', 'Gollum', 'Saruman', 'Ganda
 et_array.forEach(function(navne){
     console.log(navne);
 });
-*/
+
 //øvelse 2
-/*
+
 var nyt_array = ['Rammstein', 'Metallica', 'Red Warzawa', 'System of a Down'];
 nyt_array.forEach(function(band_navne, index, arr) {
     console.log(band_navne + ' har placering ' + index + ' i mit array.');
 });
-*/
+
 
 //øvelse 3
 //opretter array, med en masse tal i
